@@ -1,0 +1,16 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Asha Sen",
+    "age": "16",
+    "grade": "10",
+    "email": "asha@example.com"
+  },
+  {
+    "student_id": "S002",
+    "name": "Rahul Das",
+    "age": "17",
+    "grade": "11",
+    "email": "rahul@example.com"
+  }
+]
